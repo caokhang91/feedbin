@@ -50,7 +50,7 @@ gem "carrierwave_direct", github: "feedbin/carrierwave_direct", ref: "a0bc323"
 gem "sass-rails"
 gem "mini_racer"
 gem "coffee-rails"
-gem "uglifier", "= 4.1.11"
+gem "uglifier", "4.2.0"
 gem "autoprefixer-rails"
 gem "rubyzip"
 
